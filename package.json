@@ -1,13 +1,13 @@
 {
-  "name": "share-boost",
+  "name": "share-booster",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Share Booster in Facebook post Modified By Lorenzo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lorenzo",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
